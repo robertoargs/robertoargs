@@ -102,8 +102,8 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
   <a href="https://www.credly.com/badges/11ccb34e-a05c-49ef-9fb6-a4a93e83cdea/public_url">
     <img 
       src="./certifications/github-foundations.png" 
-      height="50" 
-      width="50" 
+      height="150" 
+      width="150" 
       alt="GitHub Foundations" 
     />
   </a>
@@ -112,8 +112,8 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
   <a href="https://www.credly.com/badges/ff9a0e6f-d29f-42b2-955b-a33c3f6d50cc/public_url">
     <img 
       src="./certifications/github-advanced-security.png" 
-      height="50" 
-      width="50" 
+      height="150" 
+      width="150" 
       alt="GitHub Advanced Security" 
     />
   </a>
