@@ -2,10 +2,10 @@
 <div id="header" align="center">
 
   <div id="badges">
-    <a href="https://www.github.com/robertoargs/" style="outline: none;">
+    <a href="https://www.github.com/robertoargs/">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/robertoargs/" style="outline: none;">
+    <a href="https://www.linkedin.com/in/robertoargs/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -99,7 +99,7 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
 <div align="center" width="100%" style="display: flex; justify-content: space-between;">
   
 
-  <a href="https://www.credly.com/badges/11ccb34e-a05c-49ef-9fb6-a4a93e83cdea/public_url" style="outline: none;">
+  <a href="https://www.credly.com/badges/11ccb34e-a05c-49ef-9fb6-a4a93e83cdea/public_url">
     <img 
       src="./certifications/github-foundations.png" 
       height="150" 
@@ -109,7 +109,7 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
   </a>
 
 
-  <a href="https://www.credly.com/badges/ff9a0e6f-d29f-42b2-955b-a33c3f6d50cc/public_url" style="outline: none;">
+  <a href="https://www.credly.com/badges/ff9a0e6f-d29f-42b2-955b-a33c3f6d50cc/public_url">
     <img 
       src="./certifications/github-advanced-security.png" 
       height="150" 
