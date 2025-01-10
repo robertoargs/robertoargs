@@ -122,7 +122,7 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
 
 ## 🚀 Thank you for reading
 
-## Stats for nerds
+<!-- ## Stats for nerds
 
 <div align="center">
 
@@ -131,5 +131,5 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
   ![robertoargs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertoargs&theme=tokyonight&hide_border=false)
 
   ![robertoargs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoargs&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-  
-</div>
+
+</div> -->
