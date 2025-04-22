@@ -118,6 +118,24 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
     />
   </a>
 
+  <a href="https://www.credly.com/badges/f0c1603a-4f27-49f2-8d07-416cb0491db5/public_url">
+    <img 
+      src="./certifications/github-copilot.png" 
+      height="150" 
+      width="150" 
+      alt="GitHub Copilot" 
+    />
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/robertoargs/9F90AA6A7F039AF8?sharingId=29BFD288C97AE17F">
+    <img 
+      src="./certifications/azure-az900.png" 
+      height="150" 
+      width="150" 
+      alt="Azure AI Fundamentals" 
+    />
+  </a>
+
 </div>
 
 ## 🚀 Thank you for reading
