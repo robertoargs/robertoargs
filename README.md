@@ -129,10 +129,19 @@ I specialize in **JavaScript**, **Python**, **SQL databases** and **Azure**.
 
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/robertoargs/9F90AA6A7F039AF8?sharingId=29BFD288C97AE17F">
     <img 
-      src="./certifications/azure-az900.png" 
+      src="./certifications/azure-ai900.png" 
       height="150" 
       width="150" 
       alt="Azure AI Fundamentals" 
+    />
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/robertoargs/3A4DB7D5F8A19379?sharingId=29BFD288C97AE17F">
+    <img 
+      src="./certifications/azure-az900.png" 
+      height="150" 
+      width="150" 
+      alt="Azure Fundamentals" 
     />
   </a>
 
